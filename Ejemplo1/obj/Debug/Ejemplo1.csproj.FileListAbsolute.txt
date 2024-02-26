@@ -1,0 +1,10 @@
+C:\Users\LisbethArt\Prácticas\Clase\LPP0G01\.NET\AR100621_Guia3 - copia\AR100621_Guia3\bin\Debug\Ejemplo1.exe.config
+C:\Users\LisbethArt\Prácticas\Clase\LPP0G01\.NET\AR100621_Guia3 - copia\AR100621_Guia3\bin\Debug\Ejemplo1.exe
+C:\Users\LisbethArt\Prácticas\Clase\LPP0G01\.NET\AR100621_Guia3 - copia\AR100621_Guia3\bin\Debug\Ejemplo1.pdb
+C:\Users\LisbethArt\Prácticas\Clase\LPP0G01\.NET\AR100621_Guia3 - copia\AR100621_Guia3\obj\Debug\Ejemplo1.csproj.AssemblyReference.cache
+C:\Users\LisbethArt\Prácticas\Clase\LPP0G01\.NET\AR100621_Guia3 - copia\AR100621_Guia3\obj\Debug\AR100621_Guia3.Form1.resources
+C:\Users\LisbethArt\Prácticas\Clase\LPP0G01\.NET\AR100621_Guia3 - copia\AR100621_Guia3\obj\Debug\Ejemplo1.Properties.Resources.resources
+C:\Users\LisbethArt\Prácticas\Clase\LPP0G01\.NET\AR100621_Guia3 - copia\AR100621_Guia3\obj\Debug\Ejemplo1.csproj.GenerateResource.cache
+C:\Users\LisbethArt\Prácticas\Clase\LPP0G01\.NET\AR100621_Guia3 - copia\AR100621_Guia3\obj\Debug\Ejemplo1.csproj.CoreCompileInputs.cache
+C:\Users\LisbethArt\Prácticas\Clase\LPP0G01\.NET\AR100621_Guia3 - copia\AR100621_Guia3\obj\Debug\Ejemplo1.exe
+C:\Users\LisbethArt\Prácticas\Clase\LPP0G01\.NET\AR100621_Guia3 - copia\AR100621_Guia3\obj\Debug\Ejemplo1.pdb
