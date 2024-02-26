@@ -8,7 +8,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace AR100621_Guia3
+namespace Ejemplo1
 {
     public partial class Form1 : Form
     {
@@ -36,7 +36,6 @@ namespace AR100621_Guia3
             txtTelefono.Clear();
             txtCorreo.Clear();
         }
-
         private void dgvContactos_DoubleClick(object sender, EventArgs e)
         {
             DataGridViewRow seleccion = dgvContactos.SelectedRows[0];

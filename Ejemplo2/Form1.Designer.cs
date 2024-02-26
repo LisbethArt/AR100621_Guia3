@@ -1,4 +1,4 @@
-﻿namespace Inventario
+﻿namespace Ejemplo2
 {
     partial class Form1
     {

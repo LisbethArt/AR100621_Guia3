@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace AR100621_Guia3
+namespace Ejemplo1
 {
-    class Persona
+    public class Persona
     {   //atributos
         private string nombre;
         private string apellido;

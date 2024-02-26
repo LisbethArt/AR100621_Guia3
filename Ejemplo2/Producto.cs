@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Inventario
+namespace Ejemplo2
 {
     internal class Producto
     {

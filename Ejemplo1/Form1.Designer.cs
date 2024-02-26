@@ -1,4 +1,4 @@
-﻿namespace AR100621_Guia3
+﻿namespace Ejemplo1
 {
     partial class Form1
     {
